@@ -1,0 +1,3 @@
+/* Ephemera PoC: keep generated previews legible in narrow panels. */
+#P10 .wikibase-snakview-value a::after {max-width:none;width:260px;}
+#P10 .wikibase-snakview-value a.external {display:inline-block;width:260px;overflow-wrap:anywhere;}

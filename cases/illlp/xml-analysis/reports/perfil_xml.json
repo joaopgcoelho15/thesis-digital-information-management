@@ -1,0 +1,2125 @@
+{
+  "amostras": {
+    "classe_gramatical_desconhecida": [
+      {
+        "lema": "tomba-ladeiras",
+        "xml_id": "DLP-tomba-ladeiras_1-29829"
+      },
+      {
+        "lema": "intravagante",
+        "xml_id": "DLP-intravagante_1-c1e8e"
+      },
+      {
+        "lema": "panelita",
+        "xml_id": "DLP-panelita_1-988b0"
+      },
+      {
+        "lema": "sucúbico",
+        "xml_id": "DLP-sucubico_1-8ebdd"
+      },
+      {
+        "lema": "radameu",
+        "xml_id": "DLP-radameu_1-0f541"
+      },
+      {
+        "lema": "concetaculífero",
+        "xml_id": "DLP-concetaculifero_1-d7d7a"
+      },
+      {
+        "lema": "créligo",
+        "xml_id": "DLP-creligo_1-1b610"
+      },
+      {
+        "lema": "dócmio",
+        "xml_id": "DLP-docmio_1-27fa4"
+      },
+      {
+        "lema": "tópos",
+        "xml_id": "DLP-topos_1-af8e1"
+      },
+      {
+        "lema": "espremedalho",
+        "xml_id": "DLP-espremedalho_1-b3f26"
+      },
+      {
+        "lema": "sitónio",
+        "xml_id": "DLP-sitonio_1-a51ac"
+      },
+      {
+        "lema": "malaio-português",
+        "xml_id": "DLP-malaio-portugues_1-21132"
+      },
+      {
+        "lema": "invigilante",
+        "xml_id": "DLP-invigilante_1-5ea3c"
+      },
+      {
+        "lema": "chichá",
+        "xml_id": "DLP-chicha_1-17119"
+      },
+      {
+        "lema": "guananá",
+        "xml_id": "DLP-guanana_1-336f1"
+      },
+      {
+        "lema": "rodofilite",
+        "xml_id": "DLP-rodofilite_1-84834"
+      },
+      {
+        "lema": "mandinguento",
+        "xml_id": "DLP-mandinguento_1-f86a4"
+      },
+      {
+        "lema": "casuário",
+        "xml_id": "DLP-casuario_1-c9cba"
+      },
+      {
+        "lema": "manembro",
+        "xml_id": "DLP-manembro_1-61784"
+      },
+      {
+        "lema": "citémico",
+        "xml_id": "DLP-citemico_1-acfa6"
+      },
+      {
+        "lema": "cucuru",
+        "xml_id": "DLP-cucuru_1-8fb24"
+      },
+      {
+        "lema": "granizeira",
+        "xml_id": "DLP-granizeira_1-1f9fb"
+      },
+      {
+        "lema": "cerradal",
+        "xml_id": "DLP-cerradal_1-1207a"
+      },
+      {
+        "lema": "residência-geral",
+        "xml_id": "DLP-residencia-geral_1-6c2f3"
+      },
+      {
+        "lema": "simetrocarpo",
+        "xml_id": "DLP-simetrocarpo_1-c9dba"
+      }
+    ],
+    "data_nao_reconhecida": [
+      {
+        "atributo": "revisto",
+        "elemento": "tei:sense",
+        "valor": "90/02/2016"
+      },
+      {
+        "atributo": "revisto",
+        "elemento": "tei:def",
+        "valor": "4/17/2017"
+      }
+    ],
+    "dlp_sem_sentidos": [
+      {
+        "lema": "reso",
+        "status": "new",
+        "xml_id": "DLP-reso_1-aaaa1"
+      },
+      {
+        "lema": "quer",
+        "status": "imported",
+        "xml_id": "DLP-quer_1-c3834"
+      },
+      {
+        "lema": "-eza",
+        "status": "imported",
+        "xml_id": "DLP--eza_1-b04ce"
+      },
+      {
+        "lema": "vice-",
+        "status": "edited",
+        "xml_id": "DLP-vice-_1-be390"
+      },
+      {
+        "lema": "estereo-",
+        "status": "imported",
+        "xml_id": "DLP-estereo-_1-6b008"
+      },
+      {
+        "lema": "-dura",
+        "status": "imported",
+        "xml_id": "DLP--dura_1-1ca88"
+      },
+      {
+        "lema": "maroto",
+        "status": "edited",
+        "xml_id": "DLP-maroto3_1-d9b3b"
+      },
+      {
+        "lema": "mascarão",
+        "status": "new",
+        "xml_id": "DLP-mascarao_1-b182c"
+      },
+      {
+        "lema": "-oco",
+        "status": "imported",
+        "xml_id": "DLP--oco_1-99679"
+      },
+      {
+        "lema": "epipaleolítico",
+        "status": "new",
+        "xml_id": "DLP-epipaleolitico_2-c5d6e"
+      },
+      {
+        "lema": "parmano",
+        "status": "new",
+        "xml_id": "DLP-parmano_1-1ce69"
+      },
+      {
+        "lema": "perequativo",
+        "status": "new",
+        "xml_id": "DLP-perequativo_1-e9775"
+      },
+      {
+        "lema": "teu",
+        "status": "imported",
+        "xml_id": "DLP-teu_1-15998"
+      },
+      {
+        "lema": "pant(o)-",
+        "status": "imported",
+        "xml_id": "DLP-pant_o_-_1-d1b1e"
+      },
+      {
+        "lema": "trans-",
+        "status": "imported",
+        "xml_id": "DLP-trans-_1-24afd"
+      },
+      {
+        "lema": "meta-",
+        "status": "imported",
+        "xml_id": "DLP-meta-_1-44746"
+      },
+      {
+        "lema": "-ada",
+        "status": "imported",
+        "xml_id": "DLP--ada_1-0370a"
+      },
+      {
+        "lema": "fisio-",
+        "status": "imported",
+        "xml_id": "DLP-fisio-_1-dd49c"
+      },
+      {
+        "lema": "preditor",
+        "status": "new",
+        "xml_id": "DLP-preditor_1-22037"
+      },
+      {
+        "lema": "-aço",
+        "status": "imported",
+        "xml_id": "DLP--aco_1-49549"
+      },
+      {
+        "lema": "identidade",
+        "status": "edited",
+        "xml_id": "DLP-identidade2_1-982bc"
+      },
+      {
+        "lema": "recapitalização",
+        "status": "new",
+        "xml_id": "DLP-recapitalizacao_1-a79fe"
+      },
+      {
+        "lema": "-ano",
+        "status": "imported",
+        "xml_id": "DLP--ano_1-77946"
+      },
+      {
+        "lema": "mesmidade",
+        "status": "new",
+        "xml_id": "DLP-mesmidade_1-4c204"
+      },
+      {
+        "lema": "ambi-",
+        "status": "imported",
+        "xml_id": "DLP-ambi-_1-a436c"
+      }
+    ],
+    "entrada_com_sentidos_sem_definicao": [
+      {
+        "lema": "pot(o)-",
+        "sentidos": 1,
+        "xml_id": "DLP-pot_o_-_1-4b988"
+      },
+      {
+        "lema": "galo-",
+        "sentidos": 1,
+        "xml_id": "DLP-galo-_1-4dfd9"
+      },
+      {
+        "lema": "ideo-",
+        "sentidos": 1,
+        "xml_id": "DLP-ideo-_1-d1993"
+      },
+      {
+        "lema": "petri-",
+        "sentidos": 1,
+        "xml_id": "DLP-petri-_1-6668e"
+      },
+      {
+        "lema": "exo-",
+        "sentidos": 1,
+        "xml_id": "DLP-exo-_1-26583"
+      },
+      {
+        "lema": "macr(o)-",
+        "sentidos": 1,
+        "xml_id": "DLP-macr_o_-_1-cbfab"
+      },
+      {
+        "lema": "meso-",
+        "sentidos": 1,
+        "xml_id": "DLP-meso-_1-c44d0"
+      },
+      {
+        "lema": "plasm(o)-",
+        "sentidos": 1,
+        "xml_id": "DLP-plasm_o_-_1-1ad6b"
+      },
+      {
+        "lema": "beta",
+        "sentidos": 1,
+        "xml_id": "DLP-beta_4-987bc"
+      },
+      {
+        "lema": "-metro",
+        "sentidos": 1,
+        "xml_id": "DLP--metro_1-a6245"
+      },
+      {
+        "lema": "equin(o)-",
+        "sentidos": 1,
+        "xml_id": "DLP-equin_o_-_1-16190"
+      },
+      {
+        "lema": "-éu",
+        "sentidos": 1,
+        "xml_id": "DLP--eu_1-118c4"
+      },
+      {
+        "lema": "gastro-",
+        "sentidos": 1,
+        "xml_id": "DLP-gastro-_1-8a3de"
+      },
+      {
+        "lema": "-pede",
+        "sentidos": 1,
+        "xml_id": "DLP--pede_1-05155"
+      },
+      {
+        "lema": "saxi-",
+        "sentidos": 1,
+        "xml_id": "DLP-saxi-_1-24136"
+      },
+      {
+        "lema": "-acho",
+        "sentidos": 1,
+        "xml_id": "DLP--acho_1-7ed9c"
+      },
+      {
+        "lema": "cito-",
+        "sentidos": 1,
+        "xml_id": "DLP-cito-_1-fcbb9"
+      },
+      {
+        "lema": "larvi-",
+        "sentidos": 1,
+        "xml_id": "DLP-larvi-_1-5bd7b"
+      },
+      {
+        "lema": "-ido",
+        "sentidos": 1,
+        "xml_id": "DLP--ido_1-7e5ce"
+      },
+      {
+        "lema": "plen(i)-",
+        "sentidos": 1,
+        "xml_id": "DLP-plen_i_-_1-c20c6"
+      },
+      {
+        "lema": "rabi-",
+        "sentidos": 1,
+        "xml_id": "DLP-rabi-_1-ad758"
+      },
+      {
+        "lema": "alcal(i)-",
+        "sentidos": 1,
+        "xml_id": "DLP-alcal_i_-_1-e4eac"
+      },
+      {
+        "lema": "cruci-",
+        "sentidos": 1,
+        "xml_id": "DLP-cruci-_1-3e3c1"
+      },
+      {
+        "lema": "-gamia",
+        "sentidos": 1,
+        "xml_id": "DLP--gamia_1-9bce8"
+      },
+      {
+        "lema": "-emia",
+        "sentidos": 1,
+        "xml_id": "DLP--emia_1-31f25"
+      }
+    ],
+    "entrada_sem_lema": [
+      {
+        "lema": "",
+        "xml_id": "DLP-_1-d41d8"
+      },
+      {
+        "lema": "",
+        "xml_id": "DLP-catfish_1-f4a28"
+      }
+    ],
+    "id_de_sentido_nao_derivado_da_entrada": [
+      {
+        "lema": "chincar",
+        "sense_id": "DLP-chincar_1-d24d6-1",
+        "xml_id": "chincar_1-d24d6"
+      },
+      {
+        "lema": "ilhar",
+        "sense_id": "DLP-ilhar_1-40326-1",
+        "xml_id": "ilhar_1-40326"
+      },
+      {
+        "lema": "cadelona",
+        "sense_id": "DLP-cadelona_1-5b401-1",
+        "xml_id": "cadelona_1-5b401"
+      },
+      {
+        "lema": "camelino",
+        "sense_id": "DLP-camelino_1-5c573-1",
+        "xml_id": "camelino_1-5c573"
+      },
+      {
+        "lema": "aquadrelar",
+        "sense_id": "DLP-aquadrelar_1-acfca-1",
+        "xml_id": "aquadrelar_1-acfca"
+      },
+      {
+        "lema": "ancinhar",
+        "sense_id": "DLP-ancinhar_1-9dd2c-1",
+        "xml_id": "ancinhar_1-9dd2c"
+      },
+      {
+        "lema": "bostar",
+        "sense_id": "DLP-bostar_1-726ff-1",
+        "xml_id": "bostar_1-726ff"
+      },
+      {
+        "lema": "cisar",
+        "sense_id": "DLP-cisar_1-16fac-1",
+        "xml_id": "cisar_1-16fac"
+      },
+      {
+        "lema": "aurorar",
+        "sense_id": "DLP-aurorar_1-32227-1",
+        "xml_id": "aurorar_1-32227"
+      },
+      {
+        "lema": "esguiche",
+        "sense_id": "DLP-esguiche_1-6aa18-1",
+        "xml_id": "esguiche_1-6aa18"
+      },
+      {
+        "lema": "noveno",
+        "sense_id": "DLP-noveno_1-bad07-1",
+        "xml_id": "noveno_1-bad07"
+      },
+      {
+        "lema": "costabaixo",
+        "sense_id": "DLP-costabaixo_1-e83ce-1",
+        "xml_id": "costabaixo_1-e83ce"
+      },
+      {
+        "lema": "provisoriedade",
+        "sense_id": "DLP-provisoriedade_1-1cf8d-1",
+        "xml_id": "provisoriedade_1-1cf8d"
+      },
+      {
+        "lema": "rasteirar",
+        "sense_id": "DLP-rasteirar_1-9769e-1",
+        "xml_id": "rasteirar_1-9769e"
+      },
+      {
+        "lema": "brevetar",
+        "sense_id": "DLP-brevetar_1-8b0fe-1",
+        "xml_id": "brevetar_1-8b0fe"
+      },
+      {
+        "lema": "gigantear",
+        "sense_id": "DLP-gigantear_1-0d402-1",
+        "xml_id": "gigantear_1-0d402"
+      },
+      {
+        "lema": "invitar",
+        "sense_id": "DLP-invitar_1-2ee7f-1",
+        "xml_id": "invitar_1-2ee7f"
+      },
+      {
+        "lema": "verticilastro",
+        "sense_id": "DLP-verticilastro_1-b7dd6-1",
+        "xml_id": "verticilastro_1-b7dd6"
+      },
+      {
+        "lema": "probabilizar",
+        "sense_id": "DLP-probabilizar_1-2d000-1",
+        "xml_id": "probabilizar_1-2d000"
+      },
+      {
+        "lema": "fontano",
+        "sense_id": "DLP-fontano_1-48ed1-1",
+        "xml_id": "fontano_1-48ed1"
+      },
+      {
+        "lema": "quarternidade",
+        "sense_id": "DLP-quarternidade_1-c1420-1",
+        "xml_id": "quarternidade_1-c1420"
+      },
+      {
+        "lema": "pactear",
+        "sense_id": "DLP-pactear_1-1c017-1",
+        "xml_id": "pactear_1-1c017"
+      },
+      {
+        "lema": "escândio",
+        "sense_id": "DLP-escandio_1-d0018-1",
+        "xml_id": "DLP-escandio_1d0018"
+      },
+      {
+        "lema": "xará",
+        "sense_id": "DLP-xara_2-c1b38-1",
+        "xml_id": "DLP-xara_1-c1b38"
+      },
+      {
+        "lema": "estafe",
+        "sense_id": "DLP-estafe_1-32a07-1",
+        "xml_id": "estafe_1-32a07"
+      }
+    ],
+    "numeracao_de_sentidos_suspeita": [
+      {
+        "lema": "espelho",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "19"
+        ],
+        "xml_id": "DLP-espelho_1-a73e6"
+      },
+      {
+        "lema": "defensor",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3",
+          "4"
+        ],
+        "xml_id": "DLP-defensor_1-611bd"
+      },
+      {
+        "lema": "oneroso",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3",
+          "4"
+        ],
+        "xml_id": "DLP-oneroso_1-a0ef8"
+      },
+      {
+        "lema": "branco",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "8"
+        ],
+        "xml_id": "DLP-branco_1-86241"
+      },
+      {
+        "lema": "discorrer",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "4"
+        ],
+        "xml_id": "DLP-discorrer_1-7a835"
+      },
+      {
+        "lema": "venda",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "4"
+        ],
+        "xml_id": "DLP-venda_1-bdd02"
+      },
+      {
+        "lema": "poliarticular",
+        "n": [
+          "1",
+          "1"
+        ],
+        "xml_id": "DLP-poliarticular_1-22fec"
+      },
+      {
+        "lema": "pretendente",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3",
+          "4"
+        ],
+        "xml_id": "DLP-pretendente_2-14a53"
+      },
+      {
+        "lema": "confissão",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "xml_id": "DLP-confissao_1-780f7"
+      },
+      {
+        "lema": "premiado",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3"
+        ],
+        "xml_id": "DLP-premiado_1-4c9b7"
+      },
+      {
+        "lema": "mordente",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "6",
+          "7",
+          "8"
+        ],
+        "xml_id": "DLP-mordente_1-3d162"
+      },
+      {
+        "lema": "cruzeta",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "2",
+          "3",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "xml_id": "DLP-cruzeta_1-7824e"
+      },
+      {
+        "lema": "órfico",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3"
+        ],
+        "xml_id": "DLP-orfico_1-748ac"
+      },
+      {
+        "lema": "aliviar",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "6"
+        ],
+        "xml_id": "DLP-aliviar_1-ed158"
+      },
+      {
+        "lema": "indicador",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "7",
+          "8",
+          "9"
+        ],
+        "xml_id": "DLP-indicador_2-426a1"
+      },
+      {
+        "lema": "guia",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "xml_id": "DLP-guia_1-e9dc6"
+      },
+      {
+        "lema": "bipedal",
+        "n": [
+          "1",
+          "1"
+        ],
+        "xml_id": "DLP-bipedal_1-5e2f7"
+      },
+      {
+        "lema": "vistoso",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "4"
+        ],
+        "xml_id": "DLP-vistoso_1-f9102"
+      },
+      {
+        "lema": "caldeira",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "10"
+        ],
+        "xml_id": "DLP-caldeira_1-123fd"
+      },
+      {
+        "lema": "covilhete",
+        "n": [
+          "1",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "xml_id": "DLP-covilhete_1-eeab9"
+      },
+      {
+        "lema": "reformado",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "xml_id": "DLP-reformado_1-a0770"
+      },
+      {
+        "lema": "deferente",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3"
+        ],
+        "xml_id": "DLP-deferente_1-61f55"
+      },
+      {
+        "lema": "justo",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "3"
+        ],
+        "xml_id": "DLP-justo_2-66c64"
+      },
+      {
+        "lema": "arejar",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "4"
+        ],
+        "xml_id": "DLP-arejar_1-074e5"
+      },
+      {
+        "lema": "escala",
+        "n": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "16"
+        ],
+        "xml_id": "DLP-escala_1-ed836"
+      }
+    ],
+    "numero_de_sentido_nao_inteiro": [
+      {
+        "lema": "porque",
+        "n": "I",
+        "xml_id": "DLP-porque_2-45f61"
+      },
+      {
+        "lema": "porque",
+        "n": "II",
+        "xml_id": "DLP-porque_2-45f61"
+      },
+      {
+        "lema": "ir",
+        "n": "I",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "n": "II",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "n": "III",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "n": "IV",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "cá",
+        "n": "I",
+        "xml_id": "DLP-ca_2-0d601"
+      },
+      {
+        "lema": "cá",
+        "n": "II",
+        "xml_id": "DLP-ca_2-0d601"
+      },
+      {
+        "lema": "logo",
+        "n": "I",
+        "xml_id": "DLP-logo_1-96d6f"
+      },
+      {
+        "lema": "logo",
+        "n": "II",
+        "xml_id": "DLP-logo_1-96d6f"
+      },
+      {
+        "lema": "mais",
+        "n": "I",
+        "xml_id": "DLP-mais_2-82f7c"
+      },
+      {
+        "lema": "mais",
+        "n": "II",
+        "xml_id": "DLP-mais_2-82f7c"
+      },
+      {
+        "lema": "sem",
+        "n": "I",
+        "xml_id": "DLP-sem_1-bd9a2"
+      },
+      {
+        "lema": "sem",
+        "n": "II",
+        "xml_id": "DLP-sem_1-bd9a2"
+      },
+      {
+        "lema": "bem",
+        "n": "I",
+        "xml_id": "DLP-bem_1-d3c65"
+      },
+      {
+        "lema": "bem",
+        "n": "II",
+        "xml_id": "DLP-bem_1-d3c65"
+      },
+      {
+        "lema": "muito",
+        "n": "I",
+        "xml_id": "DLP-muito_1-7478c"
+      },
+      {
+        "lema": "muito",
+        "n": "II",
+        "xml_id": "DLP-muito_1-7478c"
+      },
+      {
+        "lema": "para",
+        "n": "A",
+        "xml_id": "DLP-para_1-d3afa"
+      },
+      {
+        "lema": "para",
+        "n": "B",
+        "xml_id": "DLP-para_1-d3afa"
+      },
+      {
+        "lema": "bom",
+        "n": "I",
+        "xml_id": "DLP-bom_4-e2e6c"
+      },
+      {
+        "lema": "bom",
+        "n": "II",
+        "xml_id": "DLP-bom_4-e2e6c"
+      },
+      {
+        "lema": "haver",
+        "n": "I",
+        "xml_id": "DLP-haver_2-b60d6"
+      },
+      {
+        "lema": "haver",
+        "n": "II",
+        "xml_id": "DLP-haver_2-b60d6"
+      },
+      {
+        "lema": "haver",
+        "n": "III",
+        "xml_id": "DLP-haver_2-b60d6"
+      }
+    ],
+    "referencia_com_espacos": [
+      {
+        "lema": "alarmante",
+        "valor": " tranquilizador",
+        "xml_id": "DLP-alarmante_1-d96b3"
+      },
+      {
+        "lema": "estabelecer",
+        "valor": " acabar",
+        "xml_id": "DLP-estabelecer_1-2d9ce"
+      },
+      {
+        "lema": "estabelecer",
+        "valor": " abolir",
+        "xml_id": "DLP-estabelecer_1-2d9ce"
+      },
+      {
+        "lema": "atrapalhar",
+        "valor": "\n                         atarantar",
+        "xml_id": "DLP-atrapalhar_1-fedbd"
+      },
+      {
+        "lema": "vivo",
+        "valor": " morto",
+        "xml_id": "DLP-vivo_1-b0920"
+      },
+      {
+        "lema": "vivo",
+        "valor": " desusado",
+        "xml_id": "DLP-vivo_1-b0920"
+      },
+      {
+        "lema": "vivo",
+        "valor": " morto",
+        "xml_id": "DLP-vivo_1-b0920"
+      },
+      {
+        "lema": "chieira",
+        "valor": "chiada ",
+        "xml_id": "DLP-chieira_1-ce4df"
+      },
+      {
+        "lema": "chieira",
+        "valor": "chiada ",
+        "xml_id": "DLP-chieira_1-ce4df"
+      },
+      {
+        "lema": "chieira",
+        "valor": "chiada ",
+        "xml_id": "DLP-chieira_1-ce4df"
+      },
+      {
+        "lema": "chieira",
+        "valor": "presunção ",
+        "xml_id": "DLP-chieira_1-ce4df"
+      },
+      {
+        "lema": "demorado",
+        "valor": " breve",
+        "xml_id": "DLP-demorado_1-c3ff5"
+      },
+      {
+        "lema": "demorado",
+        "valor": " rápido",
+        "xml_id": "DLP-demorado_1-c3ff5"
+      },
+      {
+        "lema": "mulherzinha",
+        "valor": " mulheraça",
+        "xml_id": "DLP-mulherzinha_1-b8855"
+      },
+      {
+        "lema": "despresunção",
+        "valor": " presunção",
+        "xml_id": "DLP-despresuncao_1-b8d44"
+      },
+      {
+        "lema": "analfabeto",
+        "valor": "\n                         bronco",
+        "xml_id": "DLP-analfabeto_1-fbff7"
+      },
+      {
+        "lema": "analfabeto",
+        "valor": "\n                        estúpido",
+        "xml_id": "DLP-analfabeto_1-fbff7"
+      },
+      {
+        "lema": "realismo",
+        "valor": " idealismo",
+        "xml_id": "DLP-realismo_1-4fd43"
+      },
+      {
+        "lema": "cálido",
+        "valor": " gélido",
+        "xml_id": "DLP-calido_1-9b330"
+      },
+      {
+        "lema": "aparar",
+        "valor": " deixar cair",
+        "xml_id": "DLP-aparar_1-bb22b"
+      },
+      {
+        "lema": "dissuadir",
+        "valor": " persuadir",
+        "xml_id": "DLP-dissuadir_1-0a0f3"
+      },
+      {
+        "lema": "mansamente",
+        "valor": " agressivamente",
+        "xml_id": "DLP-mansamente_1-a2225"
+      },
+      {
+        "lema": "mansamente",
+        "valor": " agitadamente",
+        "xml_id": "DLP-mansamente_1-a2225"
+      },
+      {
+        "lema": "esmorecido",
+        "valor": " alentado",
+        "xml_id": "DLP-esmorecido_1-10428"
+      },
+      {
+        "lema": "espondilose",
+        "valor": "\n                         bicos-de-papagaio",
+        "xml_id": "DLP-espondilose_1-57790"
+      }
+    ],
+    "referencia_sem_lema_exato": [
+      {
+        "entrada_origem": "DLP-baldear_1-ea873",
+        "referencia": "dar um trambolhão",
+        "xpath": "/dic/*[2]/*[11]/*[3]/*"
+      },
+      {
+        "entrada_origem": "DLP-trasladar-se_1-bd6d1",
+        "referencia": "-se",
+        "xpath": "/dic/*[2]/*[6]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-vivo_1-b0920",
+        "referencia": "obras",
+        "xpath": "/dic/*[2]/*[26]/*/*"
+      },
+      {
+        "entrada_origem": "DLP-vivo_1-b0920",
+        "referencia": "ser a imagem viva de alguém",
+        "xpath": "/dic/*[2]/*[32]/*[2]/*[1]/*"
+      },
+      {
+        "entrada_origem": "DLP-vivo_1-b0920",
+        "referencia": "ter olho vivo",
+        "xpath": "/dic/*[2]/*[33]/*[2]/*[2]/*"
+      },
+      {
+        "entrada_origem": "DLP-enoveladeira_1-24411",
+        "referencia": "-deira",
+        "xpath": "/dic/*[2]/*[5]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-porque_2-45f61",
+        "referencia": "dado que",
+        "xpath": "/dic/*[2]/*[4]/*/*[1]/*[3]/*"
+      },
+      {
+        "entrada_origem": "DLP-porque_2-45f61",
+        "referencia": "visto que",
+        "xpath": "/dic/*[2]/*[4]/*/*[1]/*[4]/*"
+      },
+      {
+        "entrada_origem": "DLP-mulherzinha_1-b8855",
+        "referencia": "-inha",
+        "xpath": "/dic/*[2]/*[9]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-feijoca_1-3e599",
+        "referencia": "-oca",
+        "xpath": "/dic/*[2]/*[6]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-enfim_1-b260c",
+        "referencia": "por fim",
+        "xpath": "/dic/*[2]/*[4]/*[3]/*"
+      },
+      {
+        "entrada_origem": "DLP-poucochinho_1-9640d",
+        "referencia": "-acho-",
+        "xpath": "/dic/*[2]/*[5]/*[2]/*"
+      },
+      {
+        "entrada_origem": "DLP-patelideos_1-04d75",
+        "referencia": "-ideo",
+        "xpath": "/dic/*[2]/*[5]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-primor_1-8cd2d",
+        "referencia": "a primor",
+        "xpath": "/dic/*[2]/*[9]/*[3]/*/*"
+      },
+      {
+        "entrada_origem": "DLP-minerio_1-f051a",
+        "referencia": "miner[al]",
+        "xpath": "/dic/*[2]/*[5]/*[1]"
+      },
+      {
+        "entrada_origem": "DLP-silo-auto_1-2ccbb",
+        "referencia": "-auto",
+        "xpath": "/dic/*[2]/*[5]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-pesames_1-bd841",
+        "referencia": "pesa-me",
+        "xpath": "/dic/*[2]/*[5]/*[1]"
+      },
+      {
+        "entrada_origem": "DLP-esfoladeira_1-14fc6",
+        "referencia": "-deira",
+        "xpath": "/dic/*[2]/*[5]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-paraolimpiada_1-642fd",
+        "referencia": "jogos paraolímpicos",
+        "xpath": "/dic/*[2]/*[4]/*[3]/*"
+      },
+      {
+        "entrada_origem": "DLP-aparar_1-bb22b",
+        "referencia": "deixar cair",
+        "xpath": "/dic/*[2]/*[5]/*[6]/*"
+      },
+      {
+        "entrada_origem": "DLP-aparar_1-bb22b",
+        "referencia": "aparar golpes",
+        "xpath": "/dic/*[2]/*[14]/*[2]/*/*"
+      },
+      {
+        "entrada_origem": "DLP-espectrografo_1-054b0",
+        "referencia": "-grafo",
+        "xpath": "/dic/*[2]/*[6]/*[2]"
+      },
+      {
+        "entrada_origem": "DLP-faroeste_1-4a4c4",
+        "referencia": "Far West",
+        "xpath": "/dic/*[2]/*[6]/*"
+      },
+      {
+        "entrada_origem": "DLP-braguinha_1-44cba",
+        "referencia": "-inha",
+        "xpath": "/dic/*[2]/*[5]/*"
+      },
+      {
+        "entrada_origem": "DLP-antissialico_1-072f1",
+        "referencia": "anti-",
+        "xpath": "/dic/*[2]/*[5]/*[1]"
+      }
+    ],
+    "sentido_com_definicao_placeholder": [
+      {
+        "def": "[...]",
+        "lema": "lenticela",
+        "sense_id": "DLP-lenticela_1-f3079-1",
+        "xml_id": "DLP-lenticela_1-f3079"
+      },
+      {
+        "def": "[...]",
+        "lema": "noia | nóia",
+        "sense_id": "DLP-noia_1-73ffb-1",
+        "xml_id": "DLP-noia_1-73ffb"
+      },
+      {
+        "def": "[...]",
+        "lema": "cistauquenotomia",
+        "sense_id": "DLP-cistauquenotomia_1-53fe0-1",
+        "xml_id": "DLP-cistauquenotomia_1-53fe0"
+      },
+      {
+        "def": "[...]",
+        "lema": "marconiterapia",
+        "sense_id": "DLP-marconiterapia_1-990fe-1",
+        "xml_id": "DLP-marconiterapia_1-990fe"
+      },
+      {
+        "def": "[...]",
+        "lema": "ceratinização",
+        "sense_id": "DLP-ceratinizacao_1-78536-1",
+        "xml_id": "DLP-ceratinizacao_1-78536"
+      },
+      {
+        "def": "[...]",
+        "lema": "sensacionalmente",
+        "sense_id": "DLP-sensacionalmente_1-5402a-1",
+        "xml_id": "DLP-sensacionalmente_1-5402a"
+      },
+      {
+        "def": "[...]",
+        "lema": "lesa-felicidade",
+        "sense_id": "DLP-lesa-felicidade_1-5a814-1",
+        "xml_id": "DLP-lesa-felicidade_1-5a814"
+      },
+      {
+        "def": "[...]",
+        "lema": "chincar",
+        "sense_id": "DLP-chincar_1-d24d6-1",
+        "xml_id": "chincar_1-d24d6"
+      },
+      {
+        "def": "[...]",
+        "lema": "fototoxidade",
+        "sense_id": "DLP-fototoxidade_1-265ae-1",
+        "xml_id": "DLP-fototoxidade_1-265ae"
+      },
+      {
+        "def": "[...]",
+        "lema": "atassalhadura",
+        "sense_id": "DLP-atassalhadura_1-bf66d-1",
+        "xml_id": "DLP-atassalhadura_1-bf66d"
+      },
+      {
+        "def": "[...]",
+        "lema": "aortismo",
+        "sense_id": "DLP-aortismo_1-3ae81-1",
+        "xml_id": "DLP-aortismo_1-3ae81"
+      },
+      {
+        "def": "[...]",
+        "lema": "tireocondrotomia",
+        "sense_id": "DLP-tireocondrotomia_1-1a19f-1",
+        "xml_id": "DLP-tireocondrotomia_1-1a19f"
+      },
+      {
+        "def": "[...]",
+        "lema": "inoperatividade",
+        "sense_id": "DLP-inoperatividade_1-eea49-1",
+        "xml_id": "DLP-inoperatividade_1-eea49"
+      },
+      {
+        "def": "[...]",
+        "lema": "eletrossiderurgia | electrossiderurgia",
+        "sense_id": "DLP-eletrossiderurgia_1-e623e-1",
+        "xml_id": "DLP-eletrossiderurgia_1-e623e"
+      },
+      {
+        "def": "[...]",
+        "lema": "ripadura",
+        "sense_id": "DLP-ripadura_1-0b051-1",
+        "xml_id": "DLP-ripadura_1-0b051"
+      },
+      {
+        "def": "[...]",
+        "lema": "parimento",
+        "sense_id": "DLP-parimento_1-89d11-1",
+        "xml_id": "DLP-parimento_1-89d11"
+      },
+      {
+        "def": "[...]",
+        "lema": "ilhar",
+        "sense_id": "DLP-ilhar_1-40326-1",
+        "xml_id": "ilhar_1-40326"
+      },
+      {
+        "def": "[...]",
+        "lema": "arreatadura",
+        "sense_id": "DLP-arreatadura_1-bdefd-1",
+        "xml_id": "DLP-arreatadura_1-bdefd"
+      },
+      {
+        "def": "[...]",
+        "lema": "neognosticismo",
+        "sense_id": "DLP-neognosticismo_1-004a8-1",
+        "xml_id": "DLP-neognosticismo_1-004a8"
+      },
+      {
+        "def": "[...]",
+        "lema": "pedantescamente",
+        "sense_id": "DLP-pedantescamente_1-7a2c1-1",
+        "xml_id": "DLP-pedantescamente_1-7a2c1"
+      },
+      {
+        "def": "[...]",
+        "lema": "iletradamente",
+        "sense_id": "DLP-iletradamente_1-fa2f5-1",
+        "xml_id": "DLP-iletradamente_1-fa2f5"
+      },
+      {
+        "def": "[...]",
+        "lema": "aprumação",
+        "sense_id": "DLP-aprumacao_1-6f649-1",
+        "xml_id": "DLP-aprumacao_1-6f649"
+      },
+      {
+        "def": "[...]",
+        "lema": "escaldação",
+        "sense_id": "DLP-escaldacao_1-96d42-1",
+        "xml_id": "DLP-escaldacao_1-96d42"
+      },
+      {
+        "def": "[...]",
+        "lema": "publicismo",
+        "sense_id": "DLP-publicismo_1-84a6b-1",
+        "xml_id": "DLP-publicismo_1-84a6b"
+      },
+      {
+        "def": "[...]",
+        "lema": "gazetismo",
+        "sense_id": "DLP-gazetismo_1-79674-1",
+        "xml_id": "DLP-gazetismo_1-79674"
+      }
+    ],
+    "sentido_sem_definicao": [
+      {
+        "lema": "porque",
+        "sense_id": "DLP-porque_2-45f61-3",
+        "xml_id": "DLP-porque_2-45f61"
+      },
+      {
+        "lema": "pot(o)-",
+        "sense_id": "DLP-pot_o_-_1-4b988-1",
+        "xml_id": "DLP-pot_o_-_1-4b988"
+      },
+      {
+        "lema": "galo-",
+        "sense_id": "DLP-galo-_1-4dfd9-1",
+        "xml_id": "DLP-galo-_1-4dfd9"
+      },
+      {
+        "lema": "ideo-",
+        "sense_id": "DLP-ideo-_1-d1993-1",
+        "xml_id": "DLP-ideo-_1-d1993"
+      },
+      {
+        "lema": "petri-",
+        "sense_id": "DLP-petri-_1-6668e-1",
+        "xml_id": "DLP-petri-_1-6668e"
+      },
+      {
+        "lema": "ir",
+        "sense_id": "DLP-ir_1-d74ee-20",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "sense_id": "DLP-ir_1-d74ee-25",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "sense_id": "DLP-ir_1-d74ee-29",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "ir",
+        "sense_id": "DLP-ir_1-d74ee-75",
+        "xml_id": "DLP-ir_1-d74ee"
+      },
+      {
+        "lema": "exo-",
+        "sense_id": "DLP-exo-_1-26583-1",
+        "xml_id": "DLP-exo-_1-26583"
+      },
+      {
+        "lema": "macr(o)-",
+        "sense_id": "DLP-macr_o_-_1-cbfab-1",
+        "xml_id": "DLP-macr_o_-_1-cbfab"
+      },
+      {
+        "lema": "cá",
+        "sense_id": "DLP-ca_2-0d601-4",
+        "xml_id": "DLP-ca_2-0d601"
+      },
+      {
+        "lema": "cá",
+        "sense_id": "DLP-ca_2-0d601-22",
+        "xml_id": "DLP-ca_2-0d601"
+      },
+      {
+        "lema": "meso-",
+        "sense_id": "DLP-meso-_1-c44d0-1",
+        "xml_id": "DLP-meso-_1-c44d0"
+      },
+      {
+        "lema": "plasm(o)-",
+        "sense_id": "DLP-plasm_o_-_1-1ad6b-1",
+        "xml_id": "DLP-plasm_o_-_1-1ad6b"
+      },
+      {
+        "lema": "logo",
+        "sense_id": "DLP-logo_1-96d6f-4",
+        "xml_id": "DLP-logo_1-96d6f"
+      },
+      {
+        "lema": "logo",
+        "sense_id": "DLP-logo_1-96d6f-21",
+        "xml_id": "DLP-logo_1-96d6f"
+      },
+      {
+        "lema": "beta",
+        "sense_id": "DLP-beta_4-987bc-1",
+        "xml_id": "DLP-beta_4-987bc"
+      },
+      {
+        "lema": "-metro",
+        "sense_id": "DLP--metro_1-a6245-1",
+        "xml_id": "DLP--metro_1-a6245"
+      },
+      {
+        "lema": "pivotal",
+        "sense_id": "DLP-pivotal_1-67a45-3",
+        "xml_id": "DLP-pivotal_1-67a45"
+      },
+      {
+        "lema": "equin(o)-",
+        "sense_id": "DLP-equin_o_-_1-16190-1",
+        "xml_id": "DLP-equin_o_-_1-16190"
+      },
+      {
+        "lema": "-éu",
+        "sense_id": "DLP--eu_1-118c4-1",
+        "xml_id": "DLP--eu_1-118c4"
+      },
+      {
+        "lema": "ceca",
+        "sense_id": "DLP-ceca_1-f7a61-2",
+        "xml_id": "DLP-ceca_1-f7a61"
+      },
+      {
+        "lema": "gastro-",
+        "sense_id": "DLP-gastro-_1-8a3de-1",
+        "xml_id": "DLP-gastro-_1-8a3de"
+      },
+      {
+        "lema": "-pede",
+        "sense_id": "DLP--pede_1-05155-1",
+        "xml_id": "DLP--pede_1-05155"
+      }
+    ],
+    "sentido_sem_xml_id": [
+      {
+        "lema": "catapultagem",
+        "xml_id": "DLP-catapultagem_1-42ee7.xml"
+      },
+      {
+        "lema": "estorrina",
+        "xml_id": "DLP-estorrina_1-63e6a.xml"
+      },
+      {
+        "lema": "sangrante",
+        "xml_id": "DLP-sangrante_1-3081a.xml"
+      },
+      {
+        "lema": "pressionante",
+        "xml_id": "DLP-pressionante_1-717d2.xml"
+      },
+      {
+        "lema": "biogerontologia",
+        "xml_id": "DLP-biogerontologia_1-8eb6a.xml"
+      },
+      {
+        "lema": "sanjaco | sanjiaco | sanjaque",
+        "xml_id": "DLP-sanjaco_1-3ea09.xml"
+      },
+      {
+        "lema": "político-económico",
+        "xml_id": "DLP-politico-economico_1-fd479.xml"
+      },
+      {
+        "lema": "chalante",
+        "xml_id": "DLP-chalante_1-12391.xml"
+      },
+      {
+        "lema": "originalismo",
+        "xml_id": "DLP-originalismo_1-673c0.xml"
+      },
+      {
+        "lema": "biogerontologista",
+        "xml_id": "DLP-biogerontologista_1-330d5.xml"
+      },
+      {
+        "lema": "tosado",
+        "xml_id": "DLP-tosado_1-7c992.xml"
+      },
+      {
+        "lema": "leonardesco",
+        "xml_id": "DLP-leonardesco_1-49fc4.xml"
+      },
+      {
+        "lema": "henoteísmo",
+        "xml_id": "DLP-henoteismo_1-3ee13.xml"
+      },
+      {
+        "lema": "paleociência",
+        "xml_id": "DLP-paleociencia_1-8eb2c.xml"
+      },
+      {
+        "lema": "inglesia",
+        "xml_id": "DLP-inglesia_1-cfd47.xml"
+      },
+      {
+        "lema": "keynesiano",
+        "xml_id": "DLP-keynesiano_1-d7863.xml"
+      },
+      {
+        "lema": "surrealizante",
+        "xml_id": "DLP-surrealizante_1-1623f.xml"
+      },
+      {
+        "lema": "hachura",
+        "xml_id": "DLP-hachura_1-3bc05.xml"
+      },
+      {
+        "lema": "alicerçamento",
+        "xml_id": "DLP-alicercamento_1-d7a87.xml"
+      },
+      {
+        "lema": "sobrepressão",
+        "xml_id": "DLP-sobrepressao_1-216b8.xml"
+      },
+      {
+        "lema": "sobreinfeção | sobreinfecção",
+        "xml_id": "DLP-sobreinfecao_1-e02ab.xml"
+      },
+      {
+        "lema": "ventiloterapia",
+        "xml_id": "DLP-ventiloterapia_1-d126c.xml"
+      },
+      {
+        "lema": "sobreacumulação",
+        "xml_id": "DLP-sobreacumulacao_1-e7052.xml"
+      },
+      {
+        "lema": "guilhotinação",
+        "xml_id": "DLP-guilhotinacao_1-ae9f4.xml"
+      },
+      {
+        "lema": "cantarino",
+        "xml_id": "DLP-cantarino_1-55167.xml"
+      }
+    ],
+    "xml_id_duplicado": [
+      {
+        "elemento": "tei:entry",
+        "xml_id": "DLP-tangentoide_2-76d57"
+      }
+    ],
+    "xml_id_fora_do_padrao_proposto": [
+      {
+        "elemento": "tei:entry",
+        "xml_id": "chincar_1-d24d6"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "ilhar_1-40326"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "cadelona_1-5b401"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "camelino_1-5c573"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "aquadrelar_1-acfca"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "ancinhar_1-9dd2c"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "bostar_1-726ff"
+      },
+      {
+        "elemento": "tei:sense",
+        "xml_id": "bostar_1-726ff-2"
+      },
+      {
+        "elemento": "tei:sense",
+        "xml_id": "bostar_1-726ff-3"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "cisar_1-16fac"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "aurorar_1-32227"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "esguiche_1-6aa18"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "noveno_1-bad07"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "costabaixo_1-e83ce"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "provisoriedade_1-1cf8d"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "rasteirar_1-9769e"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "brevetar_1-8b0fe"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "gigantear_1-0d402"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "invitar_1-2ee7f"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "verticilastro_1-b7dd6"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "probabilizar_1-2d000"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "alosna_1-61040"
+      },
+      {
+        "elemento": "tei:sense",
+        "xml_id": "alosna_1-61040-1"
+      },
+      {
+        "elemento": "tei:entry",
+        "xml_id": "DLP-catapultagem_1-42ee7.xml"
+      },
+      {
+        "elemento": "tei:sense",
+        "xml_id": "DLP-catapultagem_1-42ee7.xml-1"
+      }
+    ]
+  },
+  "atributos": {
+    "dacl:meta@collaborator": 61,
+    "dacl:meta@n": 1,
+    "dacl:meta@status": 105545,
+    "http://www.dacl.pt/schema:meta@status": 407,
+    "tei:cit@type": 175492,
+    "tei:def@revisto": 221,
+    "tei:entry@gentilico": 947,
+    "tei:entry@n": 26473,
+    "tei:entry@rend": 42,
+    "tei:entry@scientific": 5,
+    "tei:entry@volp": 138169,
+    "tei:entry@xml:id": 244124,
+    "tei:entry@xml:lang": 244124,
+    "tei:etym@rever": 49,
+    "tei:etym@revisto": 1,
+    "tei:form@xml:lang": 2,
+    "tei:graphic@url": 1240,
+    "tei:note@type": 37316,
+    "tei:orth@ao": 3633,
+    "tei:orth@fem": 20172,
+    "tei:orth@foreign": 1873,
+    "tei:orth@render": 745,
+    "tei:orth@xml:land": 1,
+    "tei:orth@xml:lang": 37318,
+    "tei:pron@fem": 1486,
+    "tei:pron@pron": 39,
+    "tei:quote@type": 94575,
+    "tei:re@tpe": 1,
+    "tei:re@type": 3915,
+    "tei:ref@n": 3702,
+    "tei:ref@target": 282,
+    "tei:ref@tpe": 1,
+    "tei:ref@type": 215361,
+    "tei:ref@tyupe": 1,
+    "tei:sense@ana": 7337,
+    "tei:sense@digital": 11,
+    "tei:sense@editado": 2,
+    "tei:sense@expertValidated": 15,
+    "tei:sense@forValidation": 8519,
+    "tei:sense@id": 1,
+    "tei:sense@n": 141309,
+    "tei:sense@new": 477,
+    "tei:sense@novo": 626,
+    "tei:sense@revised": 177,
+    "tei:sense@revisto": 3005,
+    "tei:sense@xml:id": 232197,
+    "tei:sense@xml:ida": 1,
+    "tei:syll@fem": 1087,
+    "tei:usg@context": 11,
+    "tei:usg@type": 71303,
+    "tei:usgDom@type": 4,
+    "tei:usgGeo@type": 1,
+    "tei:xr@type": 110813
+  },
+  "atributos_de_data": {
+    "tei:def@revisto": 221,
+    "tei:etym@revisto": 1,
+    "tei:sense@forValidation": 8519,
+    "tei:sense@revised": 177,
+    "tei:sense@revisto": 3005
+  },
+  "contagens_anomalias": {
+    "classe_gramatical_desconhecida": 15623,
+    "data_nao_reconhecida": 2,
+    "dlp_sem_sentidos": 313,
+    "entrada_com_sentidos_sem_definicao": 523,
+    "entrada_sem_lema": 2,
+    "id_de_sentido_nao_derivado_da_entrada": 1726,
+    "numeracao_de_sentidos_suspeita": 90,
+    "numero_de_sentido_nao_inteiro": 186,
+    "referencia_com_espacos": 7591,
+    "referencia_sem_lema_exato": 11602,
+    "sentido_com_definicao_placeholder": 21730,
+    "sentido_sem_definicao": 796,
+    "sentido_sem_xml_id": 82,
+    "xml_id_duplicado": 1,
+    "xml_id_fora_do_padrao_proposto": 2456
+  },
+  "definicoes": 231474,
+  "elementos": {
+    "dacl:meta": 105545,
+    "dic": 1,
+    "http://www.dacl.pt/schema:meta": 407,
+    "tei:EtPed": 20,
+    "tei:author": 28867,
+    "tei:b": 254,
+    "tei:bibl": 34269,
+    "tei:cit": 175492,
+    "tei:citedRange": 28463,
+    "tei:date": 5987,
+    "tei:def": 231474,
+    "tei:emph": 5238,
+    "tei:entry": 244124,
+    "tei:etym": 80729,
+    "tei:figure": 1240,
+    "tei:form": 317197,
+    "tei:formant": 6,
+    "tei:gloss": 845,
+    "tei:gov": 22,
+    "tei:gramGrp": 247589,
+    "tei:graphic": 1240,
+    "tei:head": 1240,
+    "tei:hi": 1002,
+    "tei:hint": 1,
+    "tei:i": 336,
+    "tei:math": 3,
+    "tei:mi": 5,
+    "tei:mroot": 2,
+    "tei:msqrt": 1,
+    "tei:note": 37318,
+    "tei:orth": 324328,
+    "tei:pron": 19844,
+    "tei:quote": 128847,
+    "tei:re": 36841,
+    "tei:ref": 215401,
+    "tei:sense": 232317,
+    "tei:sub": 215,
+    "tei:sup": 253,
+    "tei:syll": 5695,
+    "tei:title": 34258,
+    "tei:usg": 71303,
+    "tei:usgDom": 6,
+    "tei:usgGeo": 1,
+    "tei:xr": 124144
+  },
+  "elementos_por_tipo_de_entrada": {
+    "DLP | dacl:meta": 105537,
+    "DLP | http://www.dacl.pt/schema:meta": 407,
+    "DLP | tei:EtPed": 20,
+    "DLP | tei:author": 28867,
+    "DLP | tei:b": 254,
+    "DLP | tei:bibl": 34269,
+    "DLP | tei:cit": 175492,
+    "DLP | tei:citedRange": 28463,
+    "DLP | tei:date": 5987,
+    "DLP | tei:def": 231474,
+    "DLP | tei:emph": 5238,
+    "DLP | tei:entry": 105955,
+    "DLP | tei:etym": 79585,
+    "DLP | tei:figure": 1240,
+    "DLP | tei:form": 179028,
+    "DLP | tei:formant": 6,
+    "DLP | tei:gloss": 845,
+    "DLP | tei:gov": 22,
+    "DLP | tei:gramGrp": 109420,
+    "DLP | tei:graphic": 1240,
+    "DLP | tei:head": 1240,
+    "DLP | tei:hi": 1002,
+    "DLP | tei:hint": 1,
+    "DLP | tei:i": 336,
+    "DLP | tei:math": 3,
+    "DLP | tei:mi": 5,
+    "DLP | tei:mroot": 2,
+    "DLP | tei:msqrt": 1,
+    "DLP | tei:note": 37318,
+    "DLP | tei:orth": 185998,
+    "DLP | tei:pron": 9215,
+    "DLP | tei:quote": 128847,
+    "DLP | tei:re": 36841,
+    "DLP | tei:ref": 215401,
+    "DLP | tei:sense": 232317,
+    "DLP | tei:sub": 215,
+    "DLP | tei:sup": 253,
+    "DLP | tei:syll": 5695,
+    "DLP | tei:title": 34258,
+    "DLP | tei:usg": 71154,
+    "DLP | tei:usgDom": 6,
+    "DLP | tei:usgGeo": 1,
+    "DLP | tei:xr": 124144,
+    "VOLP | dacl:meta": 8,
+    "VOLP | tei:entry": 138169,
+    "VOLP | tei:etym": 1144,
+    "VOLP | tei:form": 138169,
+    "VOLP | tei:gramGrp": 138169,
+    "VOLP | tei:orth": 138330,
+    "VOLP | tei:pron": 10629,
+    "VOLP | tei:usg": 149
+  },
+  "elementos_vazios": {
+    "dacl:meta": 105545,
+    "http://www.dacl.pt/schema:meta": 407,
+    "tei:citedRange": 1,
+    "tei:date": 1,
+    "tei:def": 62,
+    "tei:form": 1,
+    "tei:graphic": 1240,
+    "tei:head": 1,
+    "tei:note": 195,
+    "tei:orth": 2,
+    "tei:pron": 1,
+    "tei:ref": 6,
+    "tei:sense": 27,
+    "tei:title": 1,
+    "tei:xr": 1
+  },
+  "entradas": 244124,
+  "entradas_filhas_diretas_da_raiz": 244124,
+  "erro_parse": null,
+  "estado_por_tipo_de_entrada": {
+    "volp=(sem volp) | status=": 1,
+    "volp=(sem volp) | status=(sem dacl:meta)": 11,
+    "volp=(sem volp) | status=draft": 21842,
+    "volp=(sem volp) | status=edited": 7785,
+    "volp=(sem volp) | status=imported": 61104,
+    "volp=(sem volp) | status=needs revision": 24,
+    "volp=(sem volp) | status=new": 13314,
+    "volp=(sem volp) | status=reviewed": 767,
+    "volp=(sem volp) | status=revised": 487,
+    "volp=(sem volp) | status=validated": 620,
+    "volp=only | status=(sem dacl:meta)": 138161,
+    "volp=only | status=new": 8
+  },
+  "estados": {
+    "": 1,
+    "draft": 21842,
+    "edited": 7785,
+    "imported": 61104,
+    "needs revision": 24,
+    "new": 13322,
+    "reviewed": 767,
+    "revised": 487,
+    "validated": 620
+  },
+  "ficheiro": "ACL documentos/dic.xml.xz",
+  "formatos_de_data": {
+    "não reconhecida": 2,
+    "válida": 11921
+  },
+  "lemas_com_multiplas_entradas": 29017,
+  "lemas_normalizados_distintos": 217537,
+  "namespaces": {
+    "(sem namespace)": 1,
+    "http://dacl.zbr.pt/annotations": 105545,
+    "http://www.dacl.pt/schema": 407,
+    "http://www.tei-c.org/ns/1.0": 2636417
+  },
+  "placeholders": {
+    "tei:def": 21730,
+    "tei:etym": 176,
+    "tei:gramGrp": 15623,
+    "tei:note": 21515,
+    "tei:pron": 3,
+    "tei:quote": 2,
+    "tei:ref": 1,
+    "tei:sense": 21548,
+    "tei:syll": 2,
+    "tei:usg": 9,
+    "tei:xr": 1
+  },
+  "profundidade_maxima": 10,
+  "raiz": "dic",
+  "referencias_sem_lema_exato_distintas": 6134,
+  "referencias_sem_lema_exato_ocorrencias": 11602,
+  "referencias_textuais_type_entry": 215197,
+  "sense_ana": {
+    "#level_easy": 1813,
+    "#level_plain": 2714,
+    "#level_very_easy": 2810,
+    "(sem ana)": 224980
+  },
+  "sentidos": 232317,
+  "sha256_comprimido": "a6bca7210726cc9b551d5de7963825ab729ad1d642e0da160a99a96a59828c28",
+  "tamanho_comprimido_bytes": 18211940,
+  "tipos_note": {
+    "(sem type)": 2,
+    "case": 544,
+    "collaborator": 7,
+    "comment": 755,
+    "encyclopedic": 1699,
+    "plural": 4585,
+    "redirect": 20,
+    "scientific": 2557,
+    "soon": 21726,
+    "use": 5423
+  },
+  "tipos_quote": {
+    "(sem type)": 34272,
+    "combinacao_frequente": 23039,
+    "example": 71536
+  },
+  "tipos_ref": {
+    "(sem type)": 40,
+    "entry": 215197,
+    "entry***": 30,
+    "etymon": 2,
+    "https://iupac.org/wp-content/uploads/2022/07/IUPAC_Periodic_Table-04May22_CRA.pdf": 17,
+    "type": 1,
+    "url": 114
+  },
+  "tipos_usg": {
+    "domain": 42062,
+    "frequency": 2991,
+    "geographic": 13015,
+    "hint": 72,
+    "socioCultural": 13163
+  },
+  "volp": {
+    "(sem volp)": 105955,
+    "only": 138169
+  },
+  "xml_bem_formado": true,
+  "xml_ids_duplicados_distintos": 1,
+  "xml_ids_unicos": 476320,
+  "xml_model": {
+    "href=http://dacl.zbr.pt/exist/rest/db/schemas/academia.rng | schematypens=http://relaxng.org/ns/structure/1.0 | type=application/xml": 11174,
+    "href=https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng | schematypens=http://relaxng.org/ns/structure/1.0 | type=application/xml": 107056
+  },
+  "xml_model_amostras": [
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "http://dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "http://dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "http://dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "http://dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://exist.dacl.zbr.pt/exist/rest/db/schemas/academia.rng",
+      "schematypens": "http://relaxng.org/ns/structure/1.0",
+      "type": "application/xml"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "instance": "https://ephemera-poc.wikibase.cloud",
+  "properties": {
+    "P1": "instância de",
+    "P2": "título",
+    "P3": "emitido por",
+    "P4": "evento associado",
+    "P5": "data",
+    "P6": "país",
+    "P7": "idioma",
+    "P8": "parte de",
+    "P9": "URL da fonte",
+    "P10": "URL da imagem",
+    "P11": "ID de anexo WordPress",
+    "P12": "identificador local",
+    "P13": "estado dos direitos",
+    "P14": "Wikidata ID",
+    "P15": "artigo na Wikipédia",
+    "P16": "nome do ficheiro",
+    "P17": "largura em píxeis",
+    "P18": "altura em píxeis",
+    "P19": "hash SHA-256"
+  },
+  "base_items": {
+    "Q1": "Cartazes do PCP — Eleições Constituintes de 1975",
+    "Q2": "cartaz político",
+    "Q3": "Partido Comunista Português",
+    "Q4": "Eleições para a Assembleia Constituinte Portuguesa de 1975",
+    "Q5": "Portugal",
+    "Q6": "português"
+  },
+  "objects": {
+    "PCP1975-001": "Q7",
+    "PCP1975-002": "Q8",
+    "PCP1975-003": "Q9",
+    "PCP1975-004": "Q10",
+    "PCP1975-005": "Q11",
+    "PCP1975-006": "Q12",
+    "PCP1975-007": "Q13",
+    "PCP1975-008": "Q14",
+    "PCP1975-009": "Q15"
+  }
+}

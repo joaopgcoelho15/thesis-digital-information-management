@@ -1,0 +1,1013 @@
+{
+  "amostras_invalidas": [
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "abarcadamente",
+      "tipo": "VOLP",
+      "xml_id": "DLP-abarcadamente_1-9e9c2"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "manhãzinha",
+      "tipo": "VOLP",
+      "xml_id": "DLP-manhazinha_1-ff769"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "pindongar",
+      "tipo": "VOLP",
+      "xml_id": "DLP-pindongar_1-5a0ea"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "poematizado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-poematizado_1-c6b21"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "olíntico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-olintico_1-bf039"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "flicténula",
+      "tipo": "VOLP",
+      "xml_id": "DLP-flictenula_1-8f70d"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "grosador",
+      "tipo": "VOLP",
+      "xml_id": "DLP-grosador_2-6b269"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "lenticela",
+      "tipo": "DLP",
+      "xml_id": "DLP-lenticela_1-f3079"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "tomba-ladeiras",
+      "tipo": "VOLP",
+      "xml_id": "DLP-tomba-ladeiras_1-29829"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "desintrincado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-desintrincado_1-51806"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "viking",
+      "tipo": "DLP",
+      "xml_id": "DLP-viking_1-a4ded"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Marselha",
+      "tipo": "VOLP",
+      "xml_id": "DLP-marselha_1-5e15a"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "teucro",
+      "tipo": "DLP",
+      "xml_id": "DLP-teucro_1-70b56"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "arreligioso",
+      "tipo": "DLP",
+      "xml_id": "DLP-arreligioso_1-dee39"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "lambariense",
+      "tipo": "VOLP",
+      "xml_id": "DLP-lambariense_1-7a7a0"
+    },
+    {
+      "erros": [
+        "Expecting an element g, got nothing",
+        "Invalid attribute forValidation for element sense",
+        "Element entry has extra content: form"
+      ],
+      "lema": "impossível",
+      "tipo": "DLP",
+      "xml_id": "DLP-impossivel_1-3d3f9"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "nomocrático",
+      "tipo": "DLP",
+      "xml_id": "DLP-nomocratico_1-edb76"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "entredilacerar",
+      "tipo": "VOLP",
+      "xml_id": "DLP-entredilacerar_1-89196"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes",
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "noia",
+      "tipo": "DLP",
+      "xml_id": "DLP-noia_1-73ffb"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "locador",
+      "tipo": "DLP",
+      "xml_id": "DLP-locador_2-f7aae"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Efrém",
+      "tipo": "VOLP",
+      "xml_id": "DLP-efrem_1-754c4"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "cistauquenotomia",
+      "tipo": "DLP",
+      "xml_id": "DLP-cistauquenotomia_1-53fe0"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Angical do Piauí",
+      "tipo": "VOLP",
+      "xml_id": "DLP-angical_do_piaui_1-18cf8"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "intravagante",
+      "tipo": "VOLP",
+      "xml_id": "DLP-intravagante_1-c1e8e"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "hematônfalo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-hematonfalo_1-a0e7f"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "faucal",
+      "tipo": "VOLP",
+      "xml_id": "DLP-faucal_1-ec034"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "piritífero",
+      "tipo": "VOLP",
+      "xml_id": "DLP-piritifero_1-9bd25"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "panelita",
+      "tipo": "VOLP",
+      "xml_id": "DLP-panelita_1-988b0"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "indelegável",
+      "tipo": "VOLP",
+      "xml_id": "DLP-indelegavel_1-6dcd6"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "languedor",
+      "tipo": "VOLP",
+      "xml_id": "DLP-languedor_1-b80a9"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "insubjugável",
+      "tipo": "VOLP",
+      "xml_id": "DLP-insubjugavel_1-94385"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes",
+        "Expecting an element g, got nothing",
+        "Invalid attribute revisto for element sense",
+        "Element entry has extra content: form"
+      ],
+      "lema": "Re",
+      "tipo": "DLP",
+      "xml_id": "DLP-re_1-f4473"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "derrogado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-derrogado_1-406c0"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "sucúbico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-sucubico_1-8ebdd"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "tecnicizado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-tecnicizado_1-c4bcb"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "antiutópico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-antiutopico_1-21fe5"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "ranicultor",
+      "tipo": "VOLP",
+      "xml_id": "DLP-ranicultor_1-e25b7"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "barco-cruzeiro",
+      "tipo": "VOLP",
+      "xml_id": "DLP-barco-cruzeiro_1-11952"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "ortonormado",
+      "tipo": "DLP",
+      "xml_id": "DLP-ortonormado_1-916db"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "anastomosado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-anastomosado_1-7649f"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "marconiterapia",
+      "tipo": "DLP",
+      "xml_id": "DLP-marconiterapia_1-990fe"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "procumbente",
+      "tipo": "VOLP",
+      "xml_id": "DLP-procumbente_1-35605"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "chicaca",
+      "tipo": "VOLP",
+      "xml_id": "DLP-chicaca_1-913c4"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "ceratinização",
+      "tipo": "DLP",
+      "xml_id": "DLP-ceratinizacao_1-78536"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "radameu",
+      "tipo": "VOLP",
+      "xml_id": "DLP-radameu_1-0f541"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "concetaculífero",
+      "tipo": "VOLP",
+      "xml_id": "DLP-concetaculifero_1-d7d7a"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "filariídeo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-filariideo_2-c7a2a"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "começante",
+      "tipo": "VOLP",
+      "xml_id": "DLP-comecante_2-6f4e6"
+    },
+    {
+      "erros": [
+        "Element quote has extra content: text",
+        "Did not expect element quote there",
+        "Expecting element figure, got quote",
+        "Expecting element lang, got quote",
+        "Element cit failed to validate content"
+      ],
+      "lema": "operador",
+      "tipo": "DLP",
+      "xml_id": "DLP-operador_3-06d4f"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Autónoe",
+      "tipo": "VOLP",
+      "xml_id": "DLP-autonoe_1-93dbf"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "créligo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-creligo_1-1b610"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "tremedal",
+      "tipo": "VOLP",
+      "xml_id": "DLP-tremedal_1-5c68f"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "cariamídeo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-cariamideo_1-f7deb"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "macroestrutura",
+      "tipo": "VOLP",
+      "xml_id": "DLP-macroestrutura_1-ffb0e"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Parcídio",
+      "tipo": "VOLP",
+      "xml_id": "DLP-parcidio_1-16e03"
+    },
+    {
+      "erros": [
+        "Did not expect element re there",
+        "Expecting element lang, got re",
+        "Expecting element figure, got re",
+        "Element sense has extra content: def",
+        "Element entry has extra content: form"
+      ],
+      "lema": "atrapalhar",
+      "tipo": "DLP",
+      "xml_id": "DLP-atrapalhar_1-fedbd"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "ceratinizar",
+      "tipo": "VOLP",
+      "xml_id": "DLP-ceratinizar_1-6a367"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "sensacionalmente",
+      "tipo": "DLP",
+      "xml_id": "DLP-sensacionalmente_1-5402a"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "lesa-felicidade",
+      "tipo": "DLP",
+      "xml_id": "DLP-lesa-felicidade_1-5a814"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "toitear",
+      "tipo": "VOLP",
+      "xml_id": "DLP-toitear_1-4ba1e"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "chincar",
+      "tipo": "DLP",
+      "xml_id": "chincar_1-d24d6"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "vivo",
+      "tipo": "DLP",
+      "xml_id": "DLP-vivo_1-b0920"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Máris",
+      "tipo": "VOLP",
+      "xml_id": "DLP-maris_1-74a1d"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "assedador",
+      "tipo": "VOLP",
+      "xml_id": "DLP-assedador_2-9c976"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "dócmio",
+      "tipo": "VOLP",
+      "xml_id": "DLP-docmio_1-27fa4"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "napeia",
+      "tipo": "VOLP",
+      "xml_id": "DLP-napeia_1-0faa2"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "rodista",
+      "tipo": "VOLP",
+      "xml_id": "DLP-rodista_1-cd997"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "damaria",
+      "tipo": "VOLP",
+      "xml_id": "DLP-damaria_1-dfb33"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "tópos",
+      "tipo": "VOLP",
+      "xml_id": "DLP-topos_1-af8e1"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "espremedalho",
+      "tipo": "VOLP",
+      "xml_id": "DLP-espremedalho_1-b3f26"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "pseudoagráfico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-pseudoagrafico_1-9b35e"
+    },
+    {
+      "erros": [
+        "Expecting an element g, got nothing",
+        "Invalid attribute revised for element sense",
+        "Element entry has extra content: form"
+      ],
+      "lema": "EURATOM",
+      "tipo": "DLP",
+      "xml_id": "DLP-euratom_1-13503"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "espectroscopista",
+      "tipo": "VOLP",
+      "xml_id": "DLP-espectroscopista_1-eb6a0"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "bicurioso",
+      "tipo": "VOLP",
+      "xml_id": "DLP-bicurioso_1-173c3"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "Virgínia",
+      "tipo": "VOLP",
+      "xml_id": "DLP-virginia_2-bdfb8"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "grisalhado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-grisalhado_1-d25b6"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "udu",
+      "tipo": "VOLP",
+      "xml_id": "DLP-udu_1-42163"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "sitónio",
+      "tipo": "VOLP",
+      "xml_id": "DLP-sitonio_1-a51ac"
+    },
+    {
+      "erros": [
+        "Did not expect element meta there",
+        "Element entry failed to validate content"
+      ],
+      "lema": "lamantim",
+      "tipo": "DLP",
+      "xml_id": "DLP-lamantim_1-c6f84"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "escócio",
+      "tipo": "VOLP",
+      "xml_id": "DLP-escocio_1-9e348"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "várdulo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-vardulo_1-005e2"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "onfalectómico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-onfalectomico_1-f83f3"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "fototoxidade",
+      "tipo": "DLP",
+      "xml_id": "DLP-fototoxidade_1-265ae"
+    },
+    {
+      "erros": [
+        "Element etym has extra content: text",
+        "Element entry has extra content: form"
+      ],
+      "lema": "estocada",
+      "tipo": "DLP",
+      "xml_id": "DLP-estocada_1-880e2"
+    },
+    {
+      "erros": [
+        "Element etym has extra content: text",
+        "Element entry has extra content: form"
+      ],
+      "lema": "atormentar",
+      "tipo": "DLP",
+      "xml_id": "DLP-atormentar_1-f0dfc"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "massala",
+      "tipo": "VOLP",
+      "xml_id": "DLP-massala_1-18ad6"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "atassalhadura",
+      "tipo": "DLP",
+      "xml_id": "DLP-atassalhadura_1-bf66d"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "proprietariado",
+      "tipo": "VOLP",
+      "xml_id": "DLP-proprietariado_1-0860e"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "rifainense",
+      "tipo": "VOLP",
+      "xml_id": "DLP-rifainense_2-a9b85"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "pirimidínico",
+      "tipo": "VOLP",
+      "xml_id": "DLP-pirimidinico_1-a508b"
+    },
+    {
+      "erros": [
+        "Element meta failed to validate attributes"
+      ],
+      "lema": "aortismo",
+      "tipo": "DLP",
+      "xml_id": "DLP-aortismo_1-3ae81"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "ferrimagnético",
+      "tipo": "VOLP",
+      "xml_id": "DLP-ferrimagnetico_1-3a806"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "somada",
+      "tipo": "VOLP",
+      "xml_id": "DLP-somada_1-2b3b1"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "centibar",
+      "tipo": "VOLP",
+      "xml_id": "DLP-centibar_1-b664b"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "demorado",
+      "tipo": "DLP",
+      "xml_id": "DLP-demorado_1-c3ff5"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "costeira",
+      "tipo": "VOLP",
+      "xml_id": "DLP-costeira_1-aaf0d"
+    },
+    {
+      "erros": [
+        "Element form has extra content: orth",
+        "Element entry has extra content: form"
+      ],
+      "lema": "ultracurto",
+      "tipo": "DLP",
+      "xml_id": "DLP-ultracurto_1-89275"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "burzalaque",
+      "tipo": "VOLP",
+      "xml_id": "DLP-burzalaque_1-995be"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "aracnologia",
+      "tipo": "VOLP",
+      "xml_id": "DLP-aracnologia_1-18d5d"
+    },
+    {
+      "erros": [
+        "Expecting an element sense, got nothing",
+        "Invalid attribute volp for element entry"
+      ],
+      "lema": "irríguo",
+      "tipo": "VOLP",
+      "xml_id": "DLP-irriguo_1-0e592"
+    }
+  ],
+  "contagens": {
+    "DLP_invalidas": 61801,
+    "DLP_total": 105955,
+    "DLP_validas": 44154,
+    "VOLP_invalidas": 138169,
+    "VOLP_total": 138169,
+    "invalidas": 199970,
+    "total": 244124,
+    "validas": 44154
+  },
+  "erros": {
+    "Did not expect element EtPed there": 16,
+    "Did not expect element cit there": 16,
+    "Did not expect element def there": 748,
+    "Did not expect element emph there": 2,
+    "Did not expect element form there": 2,
+    "Did not expect element gloss there": 617,
+    "Did not expect element gov there": 11,
+    "Did not expect element meta there": 407,
+    "Did not expect element note there": 34,
+    "Did not expect element quote there": 421,
+    "Did not expect element re there": 6545,
+    "Did not expect element ref there": 68,
+    "Did not expect element sense there": 1,
+    "Did not expect element usg there": 21,
+    "Did not expect element usgDom there": 5,
+    "Did not expect element usgGeo there": 1,
+    "Element cit failed to validate content": 420,
+    "Element cit has extra content: bibl": 16,
+    "Element def has extra content: emph": 1,
+    "Element def has extra content: text": 645,
+    "Element entry failed to validate content": 832,
+    "Element entry has extra content: form": 38730,
+    "Element etym has extra content: text": 1665,
+    "Element form has extra content: orth": 23850,
+    "Element gloss has extra content: text": 480,
+    "Element meta failed to validate attributes": 22316,
+    "Element note has extra content: b": 1,
+    "Element note has extra content: emph": 2,
+    "Element note has extra content: i": 11,
+    "Element note has extra content: text": 775,
+    "Element quote has extra content: emph": 38,
+    "Element quote has extra content: text": 382,
+    "Element ref has extra content: emph": 35,
+    "Element ref has extra content: i": 2,
+    "Element ref has extra content: text": 2,
+    "Element sense failed to validate attributes": 34,
+    "Element sense has extra content: def": 3615,
+    "Element sense has extra content: figure": 10,
+    "Element sense has extra content: gloss": 480,
+    "Element sense has extra content: gov": 10,
+    "Element sense has extra content: re": 130,
+    "Element sense has extra content: usg": 2284,
+    "Element sense has extra content: usgDom": 5,
+    "Element sense has extra content: usgGeo": 1,
+    "Element xr has extra content: emph": 2,
+    "Expecting an element g, got nothing": 5935,
+    "Expecting an element quote, got nothing": 1,
+    "Expecting an element sense, got nothing": 138833,
+    "Expecting element figure, got EtPed": 16,
+    "Expecting element figure, got def": 748,
+    "Expecting element figure, got emph": 2,
+    "Expecting element figure, got gloss": 480,
+    "Expecting element figure, got gov": 11,
+    "Expecting element figure, got note": 789,
+    "Expecting element figure, got quote": 421,
+    "Expecting element figure, got re": 5294,
+    "Expecting element figure, got ref": 29,
+    "Expecting element figure, got usg": 6,
+    "Expecting element figure, got usgDom": 5,
+    "Expecting element figure, got usgGeo": 1,
+    "Expecting element lang, got EtPed": 16,
+    "Expecting element lang, got def": 748,
+    "Expecting element lang, got emph": 2,
+    "Expecting element lang, got gloss": 480,
+    "Expecting element lang, got gov": 11,
+    "Expecting element lang, got note": 34,
+    "Expecting element lang, got quote": 421,
+    "Expecting element lang, got re": 5294,
+    "Expecting element lang, got ref": 29,
+    "Expecting element lang, got usg": 6,
+    "Expecting element lang, got usgDom": 5,
+    "Expecting element lang, got usgGeo": 1,
+    "Expecting element usg, got emph": 2,
+    "Expecting element usg, got ref": 29,
+    "Invalid attribute collaborator for element meta": 61,
+    "Invalid attribute context for element usg": 6,
+    "Invalid attribute digital for element sense": 2,
+    "Invalid attribute expertValidated for element sense": 6,
+    "Invalid attribute forValidation for element sense": 3690,
+    "Invalid attribute gentilico for element entry": 662,
+    "Invalid attribute ida for element sense": 1,
+    "Invalid attribute n for element meta": 1,
+    "Invalid attribute new for element sense": 281,
+    "Invalid attribute novo for element sense": 337,
+    "Invalid attribute rever for element etym": 7,
+    "Invalid attribute revised for element sense": 98,
+    "Invalid attribute revisto for element def": 102,
+    "Invalid attribute revisto for element etym": 1,
+    "Invalid attribute revisto for element sense": 1480,
+    "Invalid attribute scientific for element entry": 2,
+    "Invalid attribute volp for element entry": 138169
+  },
+  "esquema": "ACL documentos/Investigacao_inicial_DLP_Vocabulario/fontes_publicas/academia.rng",
+  "fonte": "ACL documentos/dic.xml.xz",
+  "nota_metodologica": "Cada entry foi validada isoladamente, como documento-raiz, porque o elemento agregador dic não pertence ao esquema academia.rng.",
+  "sha256_esquema": "8c44e5483795edff0a3b5648689498331fd46d036bcb7a112d9f5a473b9044e9"
+}

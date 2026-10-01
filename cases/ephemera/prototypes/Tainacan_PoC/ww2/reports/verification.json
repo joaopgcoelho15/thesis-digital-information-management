@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "source_id": 504362,
+            "id": 1264,
+            "url": "http:\/\/localhost:8087\/a-outra-guerra-exposicao-2026\/",
+            "images": 1,
+            "date": "2026-09-18 00:38:32"
+        },
+        {
+            "source_id": 504052,
+            "id": 1267,
+            "url": "http:\/\/localhost:8087\/acervo-propaganda\/free-french-in-libya-propaganda-dos-franceses-livres\/",
+            "images": 1,
+            "date": "2026-09-20 11:03:28"
+        },
+        {
+            "source_id": 273556,
+            "id": 1281,
+            "url": "http:\/\/localhost:8087\/acervo-periodicos\/der-adler\/",
+            "images": 37,
+            "date": "2026-09-20 11:03:29"
+        },
+        {
+            "source_id": 418508,
+            "id": 1369,
+            "url": "http:\/\/localhost:8087\/acervo-conjuntos\/album-de-fotos-de-guerra-de-um-soldado-alemao\/",
+            "images": 18,
+            "date": "2026-09-20 11:04:05"
+        },
+        {
+            "source_id": 416599,
+            "id": 1418,
+            "url": "http:\/\/localhost:8087\/acervo-propaganda\/a-europa-contra-o-inimigo-propaganda-de-guerra-alema\/",
+            "images": 1,
+            "date": "2026-09-20 11:04:08"
+        },
+        {
+            "source_id": 234166,
+            "id": 1432,
+            "url": "http:\/\/localhost:8087\/acervo-fotografias\/loja-japonesa-atacada-em-santiago-do-chile\/",
+            "images": 2,
+            "date": "2026-09-20 11:04:10"
+        },
+        {
+            "source_id": 226742,
+            "id": 1448,
+            "url": "http:\/\/localhost:8087\/acervo-propaganda\/reino-unido-cartazes-de-propaganda-da-ii-guerra-mundial\/",
+            "images": 10,
+            "date": "2026-09-20 11:04:11"
+        },
+        {
+            "source_id": 164565,
+            "id": 1480,
+            "url": "http:\/\/localhost:8087\/acervo-conjuntos\/eua-war-ration-book\/",
+            "images": 2,
+            "date": "2026-09-20 11:04:13"
+        }
+    ],
+    "verified_images": 72,
+    "existing_collections": {
+        "tnc_col_4_item": 9,
+        "tnc_col_42_item": 50,
+        "tnc_col_826_item": 56
+    },
+    "taxonomy": 1162,
+    "term": 4,
+    "collections": {
+        "propaganda": 1138,
+        "periodicos": 1144,
+        "conjuntos": 1150,
+        "fotografias": 1156
+    }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "filter": {},
+    "expected": 7,
+    "actual": 7,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "colecao": "1138"
+    },
+    "expected": 3,
+    "actual": 3,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "colecao": "1156"
+    },
+    "expected": 1,
+    "actual": 1,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "pesquisa": "Adler"
+    },
+    "expected": 1,
+    "actual": 1,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "unidade": "Álbum"
+    },
+    "expected": 1,
+    "actual": 1,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "unidade": "Conjunto"
+    },
+    "expected": 2,
+    "actual": 2,
+    "public_http": 200
+  },
+  {
+    "filter": {
+      "pesquisa": "zzzz-no-match-zzzz"
+    },
+    "expected": 0,
+    "actual": 0,
+    "public_http": 200
+  }
+]
